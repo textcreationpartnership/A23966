@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of the present state of the mines of Bwlchyr-Eskir-Hyr and of the material proceedings of the committee, appointed for the management thereof, published for the information and satisfaction of the absent-partners, and at their request.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23966</idno>
+            <idno type="STC">Wing A139</idno>
+            <idno type="STC">ESTC R1202</idno>
+            <idno type="EEBO-CITATION">11948951</idno>
+            <idno type="OCLC">ocm 11948951</idno>
+            <idno type="VID">51357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51357)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 46:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of the present state of the mines of Bwlchyr-Eskir-Hyr and of the material proceedings of the committee, appointed for the management thereof, published for the information and satisfaction of the absent-partners, and at their request.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"To the absent partners" dated and signed: Jan. 31st, 1699/1700, Francis Pigott, Sec.</note>
+                  <note>Date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal mines and mining --  Wales.</term>
+               <term>Mine examination.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51357:1"/>
+            <pb n="1" facs="tcp:51357:1"/>
+            <head>AN ABSTRACT OF THE Preſent State of the MINES Of <hi>Bwlchyr-Eskir-Hyr;</hi> And of the Material Proceedings of the Committee, appointed for the Management thereof.</head>
+            <head type="sub">
+               <hi>Publiſhed</hi> for the Information and Satisfaction of the abſent-Partners, and at their Requeſt.</head>
+            <head type="sub">
+               <hi>By Order of the Committee.</hi>
+            </head>
+            <floatingText type="letter">
+               <body>
+                  <head>To the Abſent Partners.</head>
+                  <opener>
+                     <salute>Gent'</salute>
+                  </opener>
+                  <p>THE Repreſentation made by ſeveral Abſent Partners living in the Countrey, of the Inconveniencies that have happened for want of ſome publick Information of the State of the Mines, together with their Requeſt, that for the Satisfaction of all the Partners, an Account thereof be Printed, with the Opinion of the Com<g ref="char:EOLhyphen"/>mittee concerning the ſame, hath been taken into Conſideration by the ſaid Com<g ref="char:EOLhyphen"/>mittee; and tho' it was preſumed that all the Partners in theſe Mines, would either by themſelves or friends have taken an Account thereof at the Office in <hi>Lincolns-Inn,</hi> from the Original Letters and Entries, which they thought would have been moſt proper and ſatisfactory, and which they may have acceſs to, when they pleaſe. Yet to ſhew their reſpect to you who have repoſed ſo great a Truſt in them, and how careful they have been and ſtill are of your intereſt and ſafety, they have or<g ref="char:EOLhyphen"/>dered the following Abſtract to be made from the Originals, and (being peruſed and allowed by them) to be Printed and ſent to you, By, <hi>Gentlemen,</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>Jan. 31ſt. 1699/700.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your moſt Humble Servant,</hi> Francis Pigott, <hi>Sec'</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p n="1">
+               <hi>Iſt,</hi> IT was referred to Sir <hi>Humphry Mackworth,</hi> and <hi>William Player,</hi> of <hi>Grays-Inn,</hi> 
+               <abbr>Eſq</abbr> (and to ſuch other of the Committee as would then be preſent) to view the Mines, and make a Report of the preſent State thereof, and of all matters relating thereto.</p>
+            <p n="2">
+               <hi>IIdly,</hi> In purſuance thereof the following Letter was ſent by them to the Com<g ref="char:EOLhyphen"/>mittee, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Gent'</salute>
+                     <date>June 20th, 1699.</date>
+                  </opener>
+                  <p>
+                     <hi>On</hi> Wedneſday <hi>the Seventh of this Inſtant</hi> June, <hi>Mr.</hi> Lydall, <hi>Mr.</hi> Leiceſter, <hi>and Mr.</hi> Tucker, <hi>(a Perſon Experienced in Mineral Works) came with us into</hi> Cardigan<g ref="char:EOLhyphen"/>ſhire, <hi>and having ſeveral times viewed the Mines, and Examined the Workmen, we cannot find but Mr.</hi> Waller <hi>has given us a very fair and juſt Account of the Mines.</hi>
+                  </p>
+                  <pb n="2" facs="tcp:51357:2"/>
+                  <p>
+                     <hi>We have been every Day on Horſe-back viewing ſome place or other ever ſince we met, and therefore muſt deſire more time to make a particular Report, but we have both taken Minutes of the Matter of Fact, and ſet our Hands to them; and as ſoon as conveniently we can, our Report ſhall be ſent you at Large,</hi> By, Gent'</p>
+                  <closer>
+                     <signed>Your moſt Humble Servants,
+<list>
+                           <item>
+                              <hi>H. Mackworth,</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Player.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Gent'</salute>
+                  </opener>
+                  <p>
+                     <hi>We have peruſed the above-written Letter, and ſeveral times viewed the Mines of</hi> Bwlchyr-Eskir-Hyr, <hi>and late of Sir</hi> Carbery Pryſe, <hi>and Examined the Work-men, and do entirely concur in Opinion with Sir</hi> Humphry Mackworth <hi>and Mr.</hi> Player, <hi>and that the ſaid Mines will turn to a very great Account.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Francis Leiceſter,</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Lydall,</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Tucker.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Note,</hi> Thoſe Gentlemen are all well skill'd in the Art of Mining, and particularly Mr. <hi>Tucker,</hi> who is Manager of Mr. <hi>Player</hi>'s Mineral Works near <hi>Briſtol.</hi>
+            </p>
+            <p n="3">
+               <hi>IIIdly,</hi> The Report at Large from Sir <hi>Humphry Mackworth</hi> and Mr. <hi>Player,</hi> was ſent up to the Committee the Third day of <hi>July</hi> laſt, which being too long to be inſerted, the Adventurers are referred to the Original in the Office, but (amongſt other things) it is therein ſet forth:</p>
+            <p n="1">1. That upon Examination of ſeveral Perſons that actually wrought in the Shafts formerly ſunk in the ſaid Mines, it appeared that the ſeveral Veins proved quick, and were left in ſuch manner as hath formerly been Repreſented by Mr. <hi>Waller,</hi> to the Mine-Adventurers: And though they could not have a view in the deep Shafts, having much Water in them; yet the Water being drawn out in the Shallow Croſs-cuts and Shafts,<note place="margin">Note, The great Vein was but one Foot thick in Oar at the Surface.</note> on purpoſe to give them a view of the Veins, they ſaw Oar raiſed in four ſeve<g ref="char:EOLhyphen"/>ral Veins at the day, near the Surface of the Ground, which Oar lay in Ribs, the leaſt of which was Nine Inches broad, and ſome of a Foot broad, or thereabouts.</p>
+            <p n="2">2. That they believe Mr. <hi>Waller</hi>'s Map and State of the Mines then ſent up, was very exact, the Veins, Adits and Levels being meaſured in the preſence of the ſaid Mr. <hi>Tucker,</hi> and that the works were then carry'd on in ſeveral croſs Drifts Night and Day.</p>
+            <p n="3">3. They give an Account of the Buildings at <hi>Tallybout,</hi> and on the Mountain, and of the Stores, and what Inſtructions they had left with Mr. <hi>Simon Pryſe,</hi> for the Method of his Accounts, for carriage of the Oar raiſed to the Water-ſide, and to Mr. <hi>Waller</hi> for Expediting the Levels, Croſs-drifts and Shafts; for the Speedy raiſing of Oar; which was approved and Confirmed.</p>
+            <p n="4">4. They deliver their Opinion by the Advice of the ſaid Artiſts, that for the ſpeedy Smelting and Refining the Oar raiſed; and ſo making a quick Return of Profit, <hi>Neath,</hi> in <hi>Glamorganſhire</hi> ſeemed at preſent the moſt proper Place; where there was a large Smelting-houſe, One hundred thirty five Foot in length, and Thir<g ref="char:EOLhyphen"/>ty Two Foot in breadth, and all Buildings, Stacks, Furnaces, with a large Water-wheel, <hi>Sturbridge</hi> Clay, Coal, and all other Materials in readineſs, which could not be provided in <hi>Cardiganſhire</hi> in a long time; and that Sir <hi>Humphry Mackworth</hi> was then making a Key at <hi>Neath-Bank,</hi> for the more convenient Loading and Unload<g ref="char:EOLhyphen"/>ing of Veſſels, where Coal is at no time wanting, if Sir <hi>Humphry Mackworth</hi>'s Coals ſhould fail.</p>
+            <p n="5">5. That about the latter end of <hi>September</hi> and beginning of <hi>October,</hi> they had Viſited the Mines a Second time, and found (amongſt other things) that in the Level Vein there appeared ſome ſtrings of Oar; That in one of the Croſs-drifts,
+<pb n="3" facs="tcp:51357:2"/>in the Eaſt-Level, not above Eight yards deep, towards the great Vein, they croſſed a Vein which had ſome Lead Oar mixed with Vein-Stone, and alſo a ſettled Vein, which by the greeniſh Colour of it ſeemed to be the Copper-Vein, which they judged to be of no great Value in that place ſo near the Sur<g ref="char:EOLhyphen"/>face, but that it had a very promiſing Aſpect, when it took more Ground upon it.</p>
+            <p>That about Fourteen Yards South of the Bog vein, there was a new Croſs-cut made, wherein there was Oar raiſed in Two diſtinct places, but whether theſe would prove profitable Veins was yet uncertain; That in order to Land Oar as ſoon as may be, Mr. <hi>Waller</hi> was carrying on a Shallow Level to the Bog-Vein.</p>
+            <p n="6">6. That Houſes for Workmen were Erected to contain near a Hundred Men, and that the Country People brought Proviſions to the Mountain every <hi>Saturday,</hi> to the great advantage of the Neighbours and Miners.</p>
+            <p n="7">7. That ſince <hi>June</hi> laſt, Sir <hi>Humphry Mackworth</hi> had at the North-end of the Smelting-Houſe above-mentioned, Erected another pile of Building Sixty Foot in length, and Twenty Eight Foot in breadth; and Stacks or Chimneys for Six or Seven Refining Furnaces; and was, below that, Erecting a Red-Lead Mill with Store-houſes convenient to them.</p>
+            <p n="8">8. That Sir <hi>Humphry Mackworth</hi> had alſo ſince that time made a Cut or Ca<g ref="char:EOLhyphen"/>nal from <hi>Neath</hi>-River, of about Eighteen or Twenty Foot wide, and about Three Hundred Yards in length, in which Trows and ſmall Veſſels with Thirty Tun might come up within Four Hundred Yards of the Smelting and Refining Houſes; and that a ſtrong Crane was alſo Erected, and the Partners Goods unloaded there, and that this Cut may be carried one or two Hundred Yards nearer, which will much ſhorten Land-Carriage, the ſaid Works being near a Mile from <hi>Neath-Key.</hi>
+            </p>
+            <p>
+               <hi>Note,</hi> that Mr. <hi>Richard Curtis,</hi> who is a conſiderable Partner, and who went down to the Mines for his own Satisfaction, and viewed and meaſured the Works under Ground, and the Buildings in <hi>Gla<g ref="char:EOLhyphen"/>morganſhire,</hi> gives a very good Character thereof, and exactly agrees with the Account above-mentioned, which is alſo confirmed by the Accomptant to the Company, who ſpent ſome time below in <hi>Car<g ref="char:EOLhyphen"/>diganſhire</hi> and at <hi>Neath,</hi> in taking an Exact Particular thereof.</p>
+            <p n="4">
+               <hi>IVthly,</hi> Sir <hi>Humphry Mackworth</hi> hath Erected all thoſe large Buildings and Conve<g ref="char:EOLhyphen"/>niencies at his own proper Charge, without receiving one Penny from the Publick Stock on that Account: And at the Requeſt of the Committee, hath let the Com<g ref="char:EOLhyphen"/>pany have the Uſe and Benefit of them; they giving to the ſaid Sir <hi>Humphry Mackworth</hi> (after full Tryal had thereof) ſuch conſideration for the uſe of the ſame as they ſhall think fit: And upon this Occaſion the Committee think themſelves obliged to declare, That the ſaid Sir <hi>Humphry Mackworth</hi> hath upon this and all other Occaſions; dealt very juſtly and honourably by all the Partners concerned.</p>
+            <p n="5">
+               <hi>Vthly,</hi> Mr. <hi>Lydall,</hi> Chief Operator to the Company, having viewed all places convenient for Erecting Smelting-Houſes, both in <hi>Cardiganſhire</hi> near to Oar, and in <hi>Glamorganſhire</hi> near to Coal, (where the Smelting-Houſes are appointed to be built by the Settlement of the Mine-Adventure, to the intent that the ſame veſſels may carry Coal to Oar, and Oar to Coal) after mature Deliberation had thereupon, hath given a particular Account of the conveniencies and inconveniencies of each place, whereby it appears, that till greater quantities of Oar are raiſed, Car<g ref="char:EOLhyphen"/>riage grown difficult, and more, Houſing is wanting, that <hi>Neath</hi> is the cheap<g ref="char:EOLhyphen"/>eſt place of Smelting and Refining all the Oar, whereby the Duty on Coal is ſaved, and alſo the charge of keeping another ſet of Stewards, Smelters and Re<g ref="char:EOLhyphen"/>finers in <hi>Cardiganſhire:</hi> and in the mean while they have more time to Deliberate in the Choice of, and to Contract for, the moſt proper place for Building in that County.</p>
+            <pb n="4" facs="tcp:51357:3"/>
+            <p n="6">
+               <hi>VIthly,</hi> As to the Profit of this Undertaking, many Experiments have been made in large Quantities; of the Richneſs of the ſeveral ſorts of Oar in theſe Veins, and it thereby appears, That every Tun of Oar (one with another) yields at this time, over and above all manner of charges, a clear profit of five pounds <hi>per</hi> Tun and upwards.</p>
+            <p n="7">
+               <hi>VIIly,</hi> The Principal Stock is not really leſſened in all this time above Two thouſand three hundred Pounds Twelve Shillings and Four pence; the uſe of Sir <hi>Humphry Mackworth</hi>'s Smelting and Refining Furnaces, having for the preſent ſaved the Com<g ref="char:EOLhyphen"/>pany a great Expence that way.</p>
+            <p n="8">
+               <hi>VIIIthly,</hi> As to the keeping the Accounts they are in exact Form and Method of Merchants Accounts.</p>
+            <p n="9">
+               <hi>IXthly,</hi> The Committee have, by ſeveral Letters from the Officers, received an Account,</p>
+            <p>
+               <hi>Firſt,</hi> That a Pitt or Shaft was begun on a Vein, five yards South of the great Vein, where the Miners met with a Spark of Oar (as they Term it) near a Tun weight, which (they ſay) ſhewed the Pride of the Vein, being within two Yards of the Surface of the Ground. That ſome time after they Sunk to the Oar, for the raiſing of which Mr. <hi>Waller</hi> did ſet a Bargain to the Miners, at 7 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <hi>
+                  <abbr>d.</abbr> per</hi> Tun; but before they could raiſe any Quantity, being ſo near the Shafts in the great Vein, the Water from them broke in upon the Workmen, and water'd them out.</p>
+            <p>
+               <hi>Note,</hi> Sir <hi>Thomas Mackworth</hi> (who alſo confirms the Report above ſet forth) went down in this Shaft, and (he ſays) that he ſaw the Oar therein above Two Foot wide, and not above Five or Six Yards deep from the Surface.</p>
+            <p>
+               <hi>Secondly,</hi> That in one of the Croſs-drifts, the Workmen met with Strings of rich Copper Oar, that croſſed the firm ſides, which gave hopes (that the Copper-Vein, (which is near two Yards wide) would prove quick and gathered to a rich Bo<g ref="char:EOLhyphen"/>dy of Oar in that Drift, when once it came up to the Vein.</p>
+            <p>
+               <hi>Thirdly,</hi> That in <hi>Curtis-Drift</hi> the Miners had cut into the Bog-Vein, which is Four Foot wide betwixt the firm Sides; And that Mr. <hi>Waller</hi> had ſet on ſeveral Setts of Workmen to ſink Shafts upon that Drift.</p>
+            <p>
+               <hi>Fourthly,</hi> That he had Finiſhed thoſe Shafts, and was raiſing Oar there; and that the Oar in the ſaid Vein did ſet well, and widen downwards, as it took more Ground upon it.</p>
+            <p>
+               <hi>Fifthly,</hi> He ſtill expreſſes his great Opinion of the Mines, and complains of their being too quick upon him for raiſing Oar, ſince in his Eſſay on the value of the Mines, he did inſiſt upon a Years time to ſet the Works in Order, which will not be ended till the latter end of <hi>May</hi> next; and ſince the Rocks have proved much harder than he expected; but yet by the time propoſed he doubts not but to be raiſing of Oar in the great Vein; and in the mean time hopes he ſhall pleaſe them in raiſing Oar in the Bog-vein above mentioned, as ſoon as he can ſet that place in order, and make room for a number of Men to be employ'd there.</p>
+            <p>
+               <hi>Sixthly,</hi> They continue the Smelting and refining at <hi>Neath</hi> with great care and di<g ref="char:EOLhyphen"/>ligence, and for the time have made there a conſiderable quantity of Silver, Lead, and Lytharge.</p>
+            <p>Upon the whole Matter, as the Committee cannot pretend to any abſolute certainty in matters of this Nature, ſo they have no reaſon to have a different Opinion of the Mines from what they had at firſt; but on the contrary do believe and hope that they are all engaged in a very Profitable Undertaking.</p>
+            <p>And as the beſt Demonſtration of the Sincerity of this their Opinion, they think fit alſo to declare, That neither his Grace the Duke of <hi>Leeds,</hi> Sir <hi>Tho. Mack<g ref="char:EOLhyphen"/>worth,</hi> Sir <hi>H. Mackworth,</hi> Mr. <hi>Waller,</hi> nor any one of the Committee, have ſold out any part of their Principal Money Adventured, or Shares ariſing from the ſame; but on the contrary many of them have lately Purchaſed a conſiderable Number of Blanks and Shares, which in the whole (amongſt them all) amounts to the Value of 8755 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Blanck-Tickets, and alſo 242 Shares.</p>
+            <closer>
+               <signed>By Order of the Committee. 
+<hi>Francis Pigot,</hi> Sec'</signed>
+            </closer>
+            <pb facs="tcp:51357:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
